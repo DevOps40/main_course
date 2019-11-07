@@ -46,42 +46,49 @@ Prod - серверы с конечной версией продукта
 Микросервисы
 Планирование, взаимодействие
 Почитать про:
-Agile - система взаимодействия между участниками процесса разработки и запуска ПО, заказчиком ПО, нацеленная на быстрое внесение изменений в продукт. (https://rb.ru/story/agile-scrum-kanban/)
 
-Jira - один из продуктов  https://www.atlassian.com/, нацеленный на помощь в коммуникациях между участниками процесса разработки. Серия продуктов помогает взаимодействовать всем участникам процесса разработки. 
-https://www.luxoft-training.ru/training/katalog_kursov/kursy-po-poduktam-atlassian/
+Agile - система взаимодействия между участниками процесса разработки и запуска ПО, заказчиком ПО, нацеленная на быстрое внесение изменений в продукт. (https://rb.ru/story/agile-scrum-kanban/)
+- [Agile-манифест](https://agilemanifesto.org/iso/ru/manifesto.html)
+
+Jira - один из продуктов  [Atlassian.com](https://www.atlassian.com/), нацеленный на помощь в коммуникациях между участниками процесса разработки. Серия продуктов помогает взаимодействовать всем участникам процесса разработки. 
+
+[Курсы по продуктам Atlassian](https://www.luxoft-training.ru/training/katalog_kursov/kursy-po-poduktam-atlassian/)
 
 
 Что нужно знать?
-Завести аккаунт в https://www.atlassian.com/
+Завести аккаунт в [Atlassian.com](https://www.atlassian.com/)
 
 ## Codebase
 
 Устройство репозитория
 
 Версии кода продукта:
-Stage -  ветки разработчиков
-Test - ветки, проверенные на stage серверах
-Production - ветки, проверенные на тест серверах и готовые к переносу на боевые серверы.
+-Stage -  ветки разработчиков
+-Test - ветки, проверенные на stage серверах
+-Production - ветки, проверенные на тест серверах и готовые к переносу на боевые серверы.
 
 Что нужно знать? 
- https://github.com  https://gitlab.com 
+- [GitHub](https://github.com)
+- [GitLab](https://gitlab.com)
+- [Книга Pro Git](https://git-scm.com/book/ru/v2)
 
 Создать в каждой системе тестовый проект, попробовать поработать с ветками из консоли
 
 
 ## Базы данных
-PostgreSQL - https://ru.wikipedia.org/wiki/PostgreSQL
+PostgreSQL 
+- [link](https://ru.wikipedia.org/wiki/PostgreSQL)
 
-Автоматизация
+## Автоматизация
 
-Системы автоматизации развертки серверов - Puppet, Chef, Ansible, Salt
-https://habr.com/ru/post/211306/
+### Системы автоматизации развертки серверов - Puppet, Chef, Ansible, Salt
+- [link](https://habr.com/ru/post/211306/)
 
-Ansible - https://docs.ansible.com/
-установка - настройка https://linux-notes.org/ustanovka-i-nastrojka-ansible-v-unix-linux/
-Плейбуки https://habr.com/ru/company/express42/blog/254959/
-Jenkins https://jenkins.io/
+### Ansible
+- [link](https://docs.ansible.com/)
+- [Установка и настройка]( https://linux-notes.org/ustanovka-i-nastrojka-ansible-v-unix-linux/)
+- [Плейбуки](https://habr.com/ru/company/express42/blog/254959/)
+- [Jenkins](https://jenkins.io/)
 
 ## Виртуализация
 
@@ -89,8 +96,9 @@ Jenkins https://jenkins.io/
 - [Запуск](https://habr.com/ru/post/346634/)
 - [Готовые контейнеры](https://hub.docker.com/)
 
-Kubernetes https://habr.com/ru/post/258443/
-	https://habr.com/ru/post/348688/
+### Kubernetes
+- [Основы](https://habr.com/ru/post/258443/)
+- [Запуск кластера](https://habr.com/ru/post/348688/)
 
 ## Резервирование
 
