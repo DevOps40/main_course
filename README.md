@@ -72,10 +72,11 @@ Production - ветки, проверенные на тест серверах �
 
 ## Базы данных
 PostgreSQL - https://ru.wikipedia.org/wiki/PostgreSQL
+
 Автоматизация
+
 Системы автоматизации развертки серверов - Puppet, Chef, Ansible, Salt
 https://habr.com/ru/post/211306/
-
 
 Ansible - https://docs.ansible.com/
 установка - настройка https://linux-notes.org/ustanovka-i-nastrojka-ansible-v-unix-linux/
@@ -83,8 +84,10 @@ Ansible - https://docs.ansible.com/
 Jenkins https://jenkins.io/
 
 ## Виртуализация
-Docker https://habr.com/ru/post/346634/
-Контейнеры - https://hub.docker.com/
+
+### Docker
+- [Запуск](https://habr.com/ru/post/346634/)
+- [Готовые контейнеры](https://hub.docker.com/)
 
 Kubernetes https://habr.com/ru/post/258443/
 	https://habr.com/ru/post/348688/
