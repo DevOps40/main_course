@@ -12,17 +12,17 @@
 ## Команда DevOps
 В идеальном мире разработкой занимается достаточно большая команда, включающая в себя руководителей, которые в то же время являются и разработчиками, наравне с остальной командой. 
 
-- CTO - технический директор
--- Team Leader:  https://habr.com/ru/post/446284/
--- Architect/Tech Leader (software architecture)
---- Project Manager
----- Developers
----- Frontend
----- Backend
----- Database
----- Mobile
----- DevOps
----- Software testing
+* CTO - технический директор
+  * Team Leader:  https://habr.com/ru/post/446284/
+  * Architect/Tech Leader (software architecture)
+   * Project Manager
+    * Developers
+    * Frontend
+    * Backend
+    * Database
+    * Mobile
+    * DevOps
+    * Software testing
 
 
 ## Архитектура
