@@ -16,13 +16,13 @@
   * Team Leader:  https://habr.com/ru/post/446284/
   * Architect/Tech Leader (software architecture)
    * Project Manager
-    * Developers
-    * Frontend
-    * Backend
-    * Database
-    * Mobile
-    * DevOps
-    * Software testing
+     * Developers
+     * Frontend
+     * Backend
+     * Database
+     * Mobile
+     * DevOps
+     * Software testing
 
 
 ## Архитектура
