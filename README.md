@@ -129,6 +129,8 @@ Jenkins, Gitlab, bitbucket, etc.
 
 Развертывание хорошей связки: https://eax.me/prometheus-and-grafana/
 
+Вопросы можно задать в специальной группе: https://t.me/metrics_ru
+
 ## Логирование
 
 Сбор и анализ логов, поиск и индексация 
