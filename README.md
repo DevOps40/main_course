@@ -123,7 +123,17 @@ Jenkins, Gitlab, bitbucket, etc.
 
 ## Мониторинг
 
+[Мониторингу серверов](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3_%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BE%D0%B2) уделяется важная роль во всем. Необходимо собирать и визуализировать метрики. 
+
+Обзор программ для мониторинга: https://habr.com/ru/post/331016/
+
+telegraf (агент) -> influxdb (бд) -> grafana (интерфейс+уведомления)
+
+
 ## Логирование
+
+Сбор и анализ логов, поиск и индексация 
+[Elasticsearch](https://ru.wikipedia.org/wiki/Elasticsearch)
 
 ## DevSecOps
 
