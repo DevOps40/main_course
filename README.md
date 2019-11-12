@@ -127,8 +127,7 @@ Jenkins, Gitlab, bitbucket, etc.
 
 Обзор программ для мониторинга: https://habr.com/ru/post/331016/
 
-telegraf (агент) -> influxdb (бд) -> grafana (интерфейс+уведомления)
-
+Развертывание хорошей связки: https://eax.me/prometheus-and-grafana/
 
 ## Логирование
 
