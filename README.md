@@ -65,6 +65,7 @@ Jira - один из продуктов  [Atlassian.com](https://www.atlassian.c
 
 Что нужно знать?
 Завести аккаунт в [Atlassian.com](https://www.atlassian.com/)
+Сообщество пользователей Atlassian (http://t.me/augspb)
 
 ## Codebase
 
