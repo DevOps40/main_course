@@ -50,7 +50,8 @@
 
 Модели ведения разработки:
 
-[Agile](https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%B1%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8) - модель взаимодействия между участниками процесса разработки и запуска ПО, заказчиком ПО, нацеленная на быстрое внесение изменений в продукт. (https://rb.ru/story/agile-scrum-kanban/)
+[Agile](https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%B1%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8) - модель взаимодействия между участниками процесса разработки и запуска ПО, заказчиком ПО, нацеленная на быстрое внесение изменений в продукт. 
+- [Agile, scrum, kanban: в чем разница и для чего использовать?](https://rb.ru/story/agile-scrum-kanban/)
 - [Agile-манифест](https://agilemanifesto.org/iso/ru/manifesto.html)
 
 [Waterfall](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%81%D0%BA%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C) - каскадная модель ведения разработки 
